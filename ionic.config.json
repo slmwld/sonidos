@@ -1,5 +1,7 @@
 {
   "name": "sonidos",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
